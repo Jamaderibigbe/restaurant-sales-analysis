@@ -13,8 +13,8 @@ In this project, we analyze and visualize the sales data using Python (Pandas, M
 ---
 
 ## 📁 Files in this Repository
-- `Sales_Analysis.ipynb` — Main Jupyter Notebook with code and visualizations
-- `Restaurant_Sales.xlsx` — Source data (optional to includ
+- `Sales_Analysis.ipynb`
+- `Restaurant_Sales.xlsx`
 - `README.md` — Project overview
 
 ---
@@ -28,6 +28,13 @@ In this project, we analyze and visualize the sales data using Python (Pandas, M
 ---
 
 ## 📈 Sample Insights
-- Monthly revenue trends
-- Top-performing cities
-- Product-wise sales breakdown
+- Most preferred Payment Method
+- Most Selling Product (By Quantity / By Revenue)
+- Which city had the Maximum revenue
+- Which Manager earns the maximum Revenue
+- Date wise revenue
+- Average Revenue
+- Average Revenue of November & December months
+- Standard Deviation of Revenue and Qunatity
+- Is Revenue increasing or decreasing over time
+- Average 'Quantity Sold' & 'Average Revenue' for each product 
